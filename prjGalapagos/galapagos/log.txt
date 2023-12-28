@@ -1,0 +1,17 @@
+[17/05/2023 - 11:49:21 (BLC001)] no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navbar_container"]/nav/ul/li[5]/a/span/span[2]/i"}
+  (Session info: chrome=113.0.5672.92) 
+
+[17/05/2023 - 11:50:23 (BLC001)] no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navbar_container"]/nav/ul/li[5]/a/span/span[2]/i"}
+  (Session info: chrome=113.0.5672.92) 
+
+[17/05/2023 - 11:52:00 (BLC001)] no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navbar_container"]/nav/ul/li[5]/a/span/span[2]/i"}
+  (Session info: chrome=113.0.5672.92) 
+
+[17/05/2023 - 11:54:05 (BLC002)] no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="innerRibbonContainer"]/div[1]/div/div/div/div[3]/div/span/button[1]"}
+  (Session info: chrome=113.0.5672.92) 
+
+[17/05/2023 12:05 (BLC001)] no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div/main/div[2]/div/div[1]/div/button/span"}
+  (Session info: chrome=113.0.5672.92) 
+
+[17/05/2023 12:07 (BLC001)] no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="innerRibbonContainer"]/div[1]/div/div/div/div[3]/div/span/button[1]"}
+  (Session info: chrome=113.0.5672.92) 
