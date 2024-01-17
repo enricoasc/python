@@ -26,3 +26,4 @@ print('Status : %r' %ativo)
 # \f			Insere uma quebra de página.
 # \u			Insere um caractere UNICODE. Deve acompanhar um código com 4 números.
 
+#Enrico

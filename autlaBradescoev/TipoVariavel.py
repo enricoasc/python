@@ -29,3 +29,5 @@ print('Código : %d' %codigo )
 print('Nome: %s' %nome)
 print('Salario : %.2f' %salario)
 print('Status : %r' %situacao)
+
+# Enrico
