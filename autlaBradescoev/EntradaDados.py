@@ -25,5 +25,3 @@ print('Status : %r' %ativo)
 # \b			Aciona o backspace, ou seja, apaga o caractere anterior.
 # \f			Insere uma quebra de página.
 # \u			Insere um caractere UNICODE. Deve acompanhar um código com 4 números.
-
-#Enrico
