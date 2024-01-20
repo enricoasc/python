@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../prjLojaVirtual/prjLojaVirtual/.idea/prjLojaVirtual.iml" filepath="$PROJECT_DIR$/../prjLojaVirtual/prjLojaVirtual/.idea/prjLojaVirtual.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/repPython.iml" filepath="$PROJECT_DIR$/.idea/repPython.iml" />
     </modules>
   </component>
