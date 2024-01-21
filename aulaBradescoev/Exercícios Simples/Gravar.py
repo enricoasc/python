@@ -1,6 +1,6 @@
 
 # Grava arquivo
-arquivo = open('../arqText.txt', 'w')
+arquivo = open('arqText.txt', 'w')
 
 arquivo.write('Curso Python \n')
 arquivo.write('Aula Prática')
@@ -8,7 +8,7 @@ arquivo.close()
 
 # Lê arquivo
 
-leitura = open('../arqText.txt', 'r')
+leitura = open('arqText.txt', 'r')
 print(leitura.read())
 leitura.close()
 
