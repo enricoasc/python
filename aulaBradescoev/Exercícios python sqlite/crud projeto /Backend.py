@@ -62,7 +62,7 @@ def view():
 def search(nome='', sobrenome='', email='',cpf=''):
     trans = TransactinObject()
     trans.connect()
-    trans.execute('SELECT * FROM clientes WEHRE nome=? or sobrenome=? or email=? or cpf=?',(nome,sobrenome,email,cpf))
+    trans.execute('SELECT * FROM clientes WHERE nome=? or sobrenome=? or email=? or cpf=?',(nome,sobrenome,email,cpf))
     rows=trans.fetchall()
     trans.disconnect()
     return rows
